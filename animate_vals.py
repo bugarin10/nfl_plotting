@@ -2,10 +2,9 @@ import pandas as pd
 import plotly.graph_objs as go
 
 # from plotly.grid_objs import Grid, Column
-from plotly.offline import download_plotlyjs, init_notebook_mode, iplot, iplot_mpl, plot
+from plotly.offline import plot
 import math
 import copy
-import sys
 
 # pathval = sys.argv[1]
 

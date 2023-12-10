@@ -1,7 +1,6 @@
 import sys
-import os
 import pandas as pd
-from sqlconn import sqlConnect, sqlClose, sqlQuery
+from sqlconn import sqlConnect, sqlQuery
 from animate_vals import g
 from plotly.offline import plot
 

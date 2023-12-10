@@ -5,9 +5,13 @@ from dotenv import load_dotenv
 from urllib3.exceptions import MaxRetryError
 from databricks.sql.exc import RequestError
 
-logging.basicConfig(filename='error_log.txt', 
-                    level=logging.ERROR, 
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    filename="error_log.txt",
+    level=logging.ERROR,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+)
+
+
 def sqlConnect():
     # Define your SQL Data Warehouse connection details
     # Load environment variables from .env file
@@ -33,24 +37,27 @@ def sqlConnect():
 
     return c, "Success"
 
+
 def sqlClose(conn):
     conn.close()
+
 
 def sqlQuery(c, tab, gameId=None, playId=None):
 
     if playId and gameId:
-        query = f'SELECT * FROM {tab} WHERE gameId = {gameId} AND playId = {playId};'
+        query = f"SELECT * FROM {tab} WHERE gameId = {gameId} AND playId = {playId};"
         print(query)
     elif gameId:
-        query = f'SELECT * FROM {tab} WHERE gameId = {gameId};'
+        query = f"SELECT * FROM {tab} WHERE gameId = {gameId};"
         print(query)
     else:
-        query = f'SELECT * FROM {tab}'
+        query = f"SELECT * FROM {tab}"
         print(query)
-    
+
     c.execute(query)
     results = c.fetchall()
     return results
+
 
 if __name__ == "__main__":
     cursor, status = sqlConnect()
