@@ -10,6 +10,11 @@ app = Flask(__name__)
 app.config["SECRET_KEY"] = "123"
 
 
+class PlayForm(FlaskForm):
+    play_input = StringField("Play Input", validators=[DataRequired()])
+    submit = SubmitField("Submit")
+
+
 # Create a URL route in our application for "/"
 @app.route("/")
 def index():
@@ -18,7 +23,15 @@ def index():
 
 @app.route("/plot.html", methods=["GET", "POST"])
 def plot():
-    return render_template("plot.html", plot=return_div(1))
+    form = PlayForm()  # Create an instance of the form
+
+    if form.validate_on_submit():
+        # If the form is submitted and valid, get the play_input value
+        play_input = form.play_input.data
+        plot_div = return_div(play_input)
+        return render_template("plot.html", form=form, plot=plot_div)
+
+    return render_template("plot.html", form=form, plot=return_div(1))
 
 
 @app.route("/team.html")
