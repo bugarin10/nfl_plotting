@@ -1,0 +1,1066 @@
+2023-12-10 10:24:07,541 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-10 10:24:07,541 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 10:27:07,757 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 10:27:07,757 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 10:27:07,758 - INFO -  * Restarting with stat
+2023-12-10 10:27:08,297 - WARNING -  * Debugger is active!
+2023-12-10 10:27:08,307 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 10:27:17,440 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "GET / HTTP/1.1" 200 -
+2023-12-10 10:27:17,454 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,455 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,481 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/aos/aos.css HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,482 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,489 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,490 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,498 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/css/main.css HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,500 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,507 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/aos/aos.js HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,508 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,513 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,514 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,518 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,521 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/js/main.js HTTP/1.1[0m" 404 -
+2023-12-10 10:27:17,655 - INFO - 127.0.0.1 - - [10/Dec/2023 10:27:17] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 10:37:48,376 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 10:37:48,376 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 10:37:48,377 - INFO -  * Restarting with stat
+2023-12-10 10:37:48,893 - WARNING -  * Debugger is active!
+2023-12-10 10:37:48,905 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 10:37:52,222 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "GET / HTTP/1.1" 200 -
+2023-12-10 10:37:52,231 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "[33mGET /href="/static/assets/vendor/bootstrap/css/bootstrap.min.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:37:52,232 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "[33mGET /href="/static/assets/vendor/bootstrap-icons/bootstrap-icons.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:37:52,245 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "[33mGET /href="/static/assets/vendor/aos/aos.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:37:52,248 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "[33mGET /href="/static/assets/vendor/glightbox/css/glightbox.min.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:37:52,249 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "[33mGET /href="/static/assets/vendor/swiper/swiper-bundle.min.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:37:52,250 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "[33mGET /href="/static/assets/vendor/remixicon/remixicon.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:37:52,256 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "GET /static/assets/css/main.css HTTP/1.1" 200 -
+2023-12-10 10:37:52,257 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "GET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2023-12-10 10:37:52,261 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "GET /static/assets/vendor/aos/aos.js HTTP/1.1" 200 -
+2023-12-10 10:37:52,265 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "GET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 200 -
+2023-12-10 10:37:52,266 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "GET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 200 -
+2023-12-10 10:37:52,275 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "GET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 200 -
+2023-12-10 10:37:52,277 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "GET /static/assets/vendor/php-email-form/validate.js HTTP/1.1" 200 -
+2023-12-10 10:37:52,279 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "[33mGET /assets/js/main.js HTTP/1.1[0m" 404 -
+2023-12-10 10:37:52,935 - INFO - 127.0.0.1 - - [10/Dec/2023 10:37:52] "[33mGET /assets/img/HUDDLE.jpeg HTTP/1.1[0m" 404 -
+2023-12-10 10:43:01,454 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 10:43:01,454 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 10:43:01,455 - INFO -  * Restarting with stat
+2023-12-10 10:43:01,973 - WARNING -  * Debugger is active!
+2023-12-10 10:43:01,981 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 10:43:05,434 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-12-10 10:43:06,012 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-12-10 10:43:06,051 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:06] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-12-10 10:43:06,052 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:06] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-12-10 10:43:06,100 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:06] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-12-10 10:43:06,119 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:06] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 10:43:55,798 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 10:43:55,799 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 10:43:55,799 - INFO -  * Restarting with stat
+2023-12-10 10:43:56,298 - WARNING -  * Debugger is active!
+2023-12-10 10:43:56,304 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 10:43:59,305 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "GET / HTTP/1.1" 200 -
+2023-12-10 10:43:59,313 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[33mGET /href="/static/assets/vendor/bootstrap/css/bootstrap.min.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:43:59,315 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[33mGET /href="/static/assets/vendor/bootstrap-icons/bootstrap-icons.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:43:59,326 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[33mGET /href="/static/assets/vendor/aos/aos.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:43:59,329 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[33mGET /href="/static/assets/vendor/glightbox/css/glightbox.min.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:43:59,337 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[33mGET /href="/static/assets/vendor/swiper/swiper-bundle.min.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:43:59,338 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[33mGET /href="/static/assets/vendor/remixicon/remixicon.css" HTTP/1.1[0m" 404 -
+2023-12-10 10:43:59,345 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 10:43:59,347 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:43:59,348 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:43:59,349 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 10:43:59,355 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:43:59,356 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:43:59,357 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 10:43:59,361 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "GET /static/assets/js/main.js HTTP/1.1" 200 -
+2023-12-10 10:43:59,376 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 10:43:59,377 - INFO - 127.0.0.1 - - [10/Dec/2023 10:43:59] "GET /static/assets/img/HUDDLE.jpeg HTTP/1.1" 200 -
+2023-12-10 10:47:10,038 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 10:47:10,038 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 10:47:10,038 - INFO -  * Restarting with stat
+2023-12-10 10:47:10,562 - WARNING -  * Debugger is active!
+2023-12-10 10:47:10,570 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 10:47:15,000 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "GET / HTTP/1.1" 200 -
+2023-12-10 10:47:15,017 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "GET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-10 10:47:15,018 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "GET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1" 200 -
+2023-12-10 10:47:15,019 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "GET /static/assets/vendor/aos/aos.css HTTP/1.1" 200 -
+2023-12-10 10:47:15,029 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "GET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1" 200 -
+2023-12-10 10:47:15,031 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "GET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1" 200 -
+2023-12-10 10:47:15,033 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "GET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1" 200 -
+2023-12-10 10:47:15,036 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 10:47:15,036 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:47:15,040 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 10:47:15,044 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:47:15,045 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:47:15,048 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:47:15,051 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 10:47:15,054 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 10:47:15,073 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 10:47:15,075 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 10:47:15,122 - INFO - 127.0.0.1 - - [10/Dec/2023 10:47:15] "GET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1" 200 -
+2023-12-10 10:56:44,727 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 10:56:44,727 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 10:56:44,728 - INFO -  * Restarting with stat
+2023-12-10 10:56:45,246 - WARNING -  * Debugger is active!
+2023-12-10 10:56:45,253 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 10:56:49,842 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "GET / HTTP/1.1" 200 -
+2023-12-10 10:56:49,886 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,886 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,887 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,887 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,887 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,888 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,891 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,892 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,894 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,895 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,897 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,897 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,898 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,899 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,908 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 10:56:49,909 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 10:56:49,917 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:49] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 10:56:53,185 - INFO - 127.0.0.1 - - [10/Dec/2023 10:56:53] "[33mGET /about.html HTTP/1.1[0m" 404 -
+2023-12-10 10:57:40,675 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 10:57:40,675 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 10:57:40,676 - INFO -  * Restarting with stat
+2023-12-10 10:57:41,225 - WARNING -  * Debugger is active!
+2023-12-10 10:57:41,232 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 10:57:42,481 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "GET / HTTP/1.1" 200 -
+2023-12-10 10:57:42,496 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,500 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,507 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,509 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,515 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,521 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,524 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,531 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,532 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,532 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,540 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,540 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,542 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,545 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,563 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 10:57:42,564 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 10:57:42,606 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:42] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 10:57:44,622 - INFO - 127.0.0.1 - - [10/Dec/2023 10:57:44] "[33mGET /about.html HTTP/1.1[0m" 404 -
+2023-12-10 10:58:08,956 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/app.py', reloading
+2023-12-10 10:58:09,034 - INFO -  * Restarting with stat
+2023-12-10 10:58:09,639 - WARNING -  * Debugger is active!
+2023-12-10 10:58:09,645 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 10:58:18,682 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 10:58:18,682 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 10:58:18,682 - INFO -  * Restarting with stat
+2023-12-10 10:58:19,238 - WARNING -  * Debugger is active!
+2023-12-10 10:58:19,244 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 10:58:20,847 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "GET / HTTP/1.1" 200 -
+2023-12-10 10:58:20,865 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,869 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,869 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,872 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,875 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,880 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,880 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,881 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,884 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,886 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,888 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,890 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,899 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,899 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,917 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 10:58:20,919 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 10:58:20,959 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:20] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,296 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "GET /about.html HTTP/1.1" 200 -
+2023-12-10 10:58:23,326 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,332 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,333 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,334 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,334 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,334 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,335 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,341 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,342 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,342 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,342 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,343 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,343 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,345 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 10:58:23,507 - INFO - 127.0.0.1 - - [10/Dec/2023 10:58:23] "[33mGET /assets/img/HUDDLE.jpeg HTTP/1.1[0m" 404 -
+2023-12-10 11:00:34,551 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:00:34,551 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:00:34,552 - INFO -  * Restarting with stat
+2023-12-10 11:00:35,086 - WARNING -  * Debugger is active!
+2023-12-10 11:00:35,092 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:00:41,069 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "GET / HTTP/1.1" 200 -
+2023-12-10 11:00:41,100 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,100 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,103 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,106 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,107 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,111 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,112 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,112 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,116 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,118 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,122 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,124 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,125 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,129 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,146 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:00:41,148 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:00:41,189 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:41] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,318 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "GET /about.html HTTP/1.1" 200 -
+2023-12-10 11:00:43,344 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,347 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,347 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,348 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,349 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,352 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,353 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,354 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,356 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,357 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,357 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,360 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,361 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,362 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:00:43,411 - INFO - 127.0.0.1 - - [10/Dec/2023 11:00:43] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:01:32,809 - INFO - 127.0.0.1 - - [10/Dec/2023 11:01:32] "[33mGET /index.html HTTP/1.1[0m" 404 -
+2023-12-10 11:03:39,327 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/app.py', reloading
+2023-12-10 11:03:39,425 - INFO -  * Restarting with stat
+2023-12-10 11:03:40,114 - WARNING -  * Debugger is active!
+2023-12-10 11:03:40,122 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:03:42,493 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:03:42,493 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:03:42,493 - INFO -  * Restarting with stat
+2023-12-10 11:03:43,017 - WARNING -  * Debugger is active!
+2023-12-10 11:03:43,024 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:03:45,632 - INFO - 127.0.0.1 - - [10/Dec/2023 11:03:45] "[33mGET / HTTP/1.1[0m" 404 -
+2023-12-10 11:03:45,921 - INFO - 127.0.0.1 - - [10/Dec/2023 11:03:45] "[33mGET / HTTP/1.1[0m" 404 -
+2023-12-10 11:03:48,306 - INFO - 127.0.0.1 - - [10/Dec/2023 11:03:48] "[33mGET / HTTP/1.1[0m" 404 -
+2023-12-10 11:03:58,379 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/app.py', reloading
+2023-12-10 11:03:58,456 - INFO -  * Restarting with stat
+2023-12-10 11:03:59,086 - WARNING -  * Debugger is active!
+2023-12-10 11:03:59,094 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:04:02,061 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:04:02,061 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:04:02,062 - INFO -  * Restarting with stat
+2023-12-10 11:04:02,566 - WARNING -  * Debugger is active!
+2023-12-10 11:04:02,573 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:04:04,521 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "GET / HTTP/1.1" 200 -
+2023-12-10 11:04:04,539 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,539 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,542 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,548 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,551 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,553 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,555 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,556 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,558 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,565 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,570 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,571 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,574 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,578 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,597 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:04:04,599 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:04:04,642 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:04] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:04:14,553 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:14] "[33mGET /index.html HTTP/1.1[0m" 404 -
+2023-12-10 11:04:41,697 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "GET / HTTP/1.1" 200 -
+2023-12-10 11:04:41,726 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,726 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,728 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,729 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,732 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,732 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,733 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,735 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,735 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,738 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,740 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,740 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,741 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,743 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,768 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:04:41,770 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:04:41,818 - INFO - 127.0.0.1 - - [10/Dec/2023 11:04:41] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,183 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "GET /about.html HTTP/1.1" 200 -
+2023-12-10 11:05:03,206 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,208 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,209 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,211 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,214 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,215 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,216 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,218 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,219 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,223 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,224 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,226 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,228 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,231 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:05:03,290 - INFO - 127.0.0.1 - - [10/Dec/2023 11:05:03] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:07:06,764 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:07:06,764 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:07:06,765 - INFO -  * Restarting with stat
+2023-12-10 11:07:07,297 - WARNING -  * Debugger is active!
+2023-12-10 11:07:07,307 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:07:12,720 - INFO - 127.0.0.1 - - [10/Dec/2023 11:07:12] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-12-10 11:07:12,768 - INFO - 127.0.0.1 - - [10/Dec/2023 11:07:12] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-12-10 11:07:12,772 - INFO - 127.0.0.1 - - [10/Dec/2023 11:07:12] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-12-10 11:07:12,783 - INFO - 127.0.0.1 - - [10/Dec/2023 11:07:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 11:07:12,819 - INFO - 127.0.0.1 - - [10/Dec/2023 11:07:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 11:07:42,138 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:07:42,138 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:07:42,139 - INFO -  * Restarting with stat
+2023-12-10 11:07:42,675 - WARNING -  * Debugger is active!
+2023-12-10 11:07:42,683 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:07:44,043 - INFO - 127.0.0.1 - - [10/Dec/2023 11:07:44] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-12-10 11:07:44,063 - INFO - 127.0.0.1 - - [10/Dec/2023 11:07:44] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-12-10 11:07:44,066 - INFO - 127.0.0.1 - - [10/Dec/2023 11:07:44] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-12-10 11:07:44,079 - INFO - 127.0.0.1 - - [10/Dec/2023 11:07:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 11:07:44,097 - INFO - 127.0.0.1 - - [10/Dec/2023 11:07:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 11:08:04,498 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:08:04,498 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:08:04,499 - INFO -  * Restarting with stat
+2023-12-10 11:08:05,016 - WARNING -  * Debugger is active!
+2023-12-10 11:08:05,023 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:08:07,355 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "GET / HTTP/1.1" 200 -
+2023-12-10 11:08:07,385 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,385 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,389 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,391 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,397 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,397 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,398 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,400 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,403 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,405 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,407 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,409 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,410 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,410 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,419 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:08:07,425 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:08:07,428 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:07] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,615 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "GET / HTTP/1.1" 200 -
+2023-12-10 11:08:09,638 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,639 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,642 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,643 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,645 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,647 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,648 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,650 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,652 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,653 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,653 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,656 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,657 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,658 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:09,659 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:09] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:08:48,927 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:08:48,927 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:08:48,928 - INFO -  * Restarting with stat
+2023-12-10 11:08:49,436 - WARNING -  * Debugger is active!
+2023-12-10 11:08:49,443 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:08:50,701 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "GET / HTTP/1.1" 200 -
+2023-12-10 11:08:50,730 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,736 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,737 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,737 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,738 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,739 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,740 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,741 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,744 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,748 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,748 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,748 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,750 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,750 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:50,754 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:50] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:08:52,523 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "GET /about.html HTTP/1.1" 200 -
+2023-12-10 11:08:52,551 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,555 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,556 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,558 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,559 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,561 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,563 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,563 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,564 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,566 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,566 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,567 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,569 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,569 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:08:52,631 - INFO - 127.0.0.1 - - [10/Dec/2023 11:08:52] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:11:08,001 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/app.py', reloading
+2023-12-10 11:11:08,081 - INFO -  * Restarting with stat
+2023-12-10 11:11:08,727 - WARNING -  * Debugger is active!
+2023-12-10 11:11:08,733 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:13:47,681 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:13:47,681 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:13:47,682 - INFO -  * Restarting with stat
+2023-12-10 11:13:48,232 - WARNING -  * Debugger is active!
+2023-12-10 11:13:48,240 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:13:52,027 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "GET / HTTP/1.1" 200 -
+2023-12-10 11:13:52,049 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,049 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,053 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,057 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,059 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,065 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,066 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,070 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,070 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,072 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,075 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,077 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,079 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,082 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,099 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:13:52,101 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:13:52,155 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:52] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,479 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "GET /team.html HTTP/1.1" 200 -
+2023-12-10 11:13:54,510 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,517 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,517 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,518 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,519 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,519 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,521 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[33mGET /assets/img/team/Rafael.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:13:54,523 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[33mGET /assets/img/team/Keon_Nartey.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:13:54,523 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,524 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[33mGET /assets/img/team/Matthew_Holden.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:13:54,527 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,528 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,528 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,530 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,531 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,532 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,534 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:13:54,539 - INFO - 127.0.0.1 - - [10/Dec/2023 11:13:54] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:15:03,084 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:15:03,084 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:15:03,084 - INFO -  * Restarting with stat
+2023-12-10 11:15:03,579 - WARNING -  * Debugger is active!
+2023-12-10 11:15:03,588 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:15:05,376 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "GET /team.html HTTP/1.1" 200 -
+2023-12-10 11:15:05,403 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,404 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,405 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,410 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,411 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,415 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[33mGET /url_for('static',"assets/img/team/Rafael.jpg") HTTP/1.1[0m" 404 -
+2023-12-10 11:15:05,415 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,416 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,416 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[33mGET /assets/img/team/Keon_Nartey.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:15:05,420 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[33mGET /assets/img/team/Matthew_Holden.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:15:05,422 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,427 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,427 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,428 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,430 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,430 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,432 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:05,435 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:05] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:15:25,377 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:25] "[33mGET /index.html HTTP/1.1[0m" 404 -
+2023-12-10 11:15:35,482 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "GET / HTTP/1.1" 200 -
+2023-12-10 11:15:35,493 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,493 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,510 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,510 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,511 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,516 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,517 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,517 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,522 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,523 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,533 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,533 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,536 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,542 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,560 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:15:35,562 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:15:35,623 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:35] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,012 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "GET /team.html HTTP/1.1" 200 -
+2023-12-10 11:15:38,034 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[33mGET /url_for('static',"assets/img/team/Rafael.jpg") HTTP/1.1[0m" 404 -
+2023-12-10 11:15:38,034 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,035 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,036 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[33mGET /assets/img/team/Keon_Nartey.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:15:38,037 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[33mGET /assets/img/team/Matthew_Holden.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:15:38,038 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,042 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,043 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,044 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,045 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,046 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,048 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,049 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,051 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,053 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,054 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,055 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:15:38,056 - INFO - 127.0.0.1 - - [10/Dec/2023 11:15:38] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:16:34,588 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:16:34,588 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:16:34,589 - INFO -  * Restarting with stat
+2023-12-10 11:16:35,168 - WARNING -  * Debugger is active!
+2023-12-10 11:16:35,177 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:16:36,653 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "GET /team.html HTTP/1.1" 200 -
+2023-12-10 11:16:36,682 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,686 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,691 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,692 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,693 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,693 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,694 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[33mGET /static/img/team/Rafael.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:16:36,695 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,696 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[33mGET /assets/img/team/Keon_Nartey.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:16:36,698 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[33mGET /assets/img/team/Matthew_Holden.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:16:36,701 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,707 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,708 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,708 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,709 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,713 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,713 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:36,714 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:36] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:16:40,153 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:40] "[33mGET /index.html HTTP/1.1[0m" 404 -
+2023-12-10 11:16:44,539 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "GET / HTTP/1.1" 200 -
+2023-12-10 11:16:44,548 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,548 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,550 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,563 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,566 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,568 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,570 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,571 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,572 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,574 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,576 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,579 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,580 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,583 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,600 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:16:44,601 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:16:44,657 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:44] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,552 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "GET /team.html HTTP/1.1" 200 -
+2023-12-10 11:16:47,584 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,586 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,586 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,588 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,590 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,590 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,592 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[33mGET /static/img/team/Rafael.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:16:47,593 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,594 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[33mGET /assets/img/team/Keon_Nartey.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:16:47,595 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[33mGET /assets/img/team/Matthew_Holden.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:16:47,598 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,598 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,600 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,602 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,604 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,604 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,605 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:16:47,607 - INFO - 127.0.0.1 - - [10/Dec/2023 11:16:47] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:17:22,825 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:17:22,825 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:17:22,826 - INFO -  * Restarting with stat
+2023-12-10 11:17:23,352 - WARNING -  * Debugger is active!
+2023-12-10 11:17:23,360 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:17:25,048 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "GET /team.html HTTP/1.1" 200 -
+2023-12-10 11:17:25,078 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,079 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,083 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,083 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,085 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,089 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,090 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,091 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "GET /static/assets/img/team/Rafael.jpg HTTP/1.1" 200 -
+2023-12-10 11:17:25,093 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[33mGET /assets/img/team/Keon_Nartey.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:17:25,095 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[33mGET /assets/img/team/Matthew_Holden.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:17:25,098 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,100 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,103 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,103 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,104 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,107 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,110 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,111 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:17:25,130 - INFO - 127.0.0.1 - - [10/Dec/2023 11:17:25] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:19:38,735 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:19:38,735 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:19:38,735 - INFO -  * Restarting with stat
+2023-12-10 11:19:39,286 - WARNING -  * Debugger is active!
+2023-12-10 11:19:39,296 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:19:41,582 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "GET /team.html HTTP/1.1" 200 -
+2023-12-10 11:19:41,611 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,620 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,620 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,621 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,622 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,623 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,625 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,628 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/img/team/Rafael.jpg HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,629 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "GET /static/assets/img/team/Keon_Nartey.jpg HTTP/1.1" 200 -
+2023-12-10 11:19:41,632 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,633 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "GET /static/assets/img/team/Matthew_Holden.jpg HTTP/1.1" 200 -
+2023-12-10 11:19:41,635 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,639 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,641 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,642 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,645 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,648 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,653 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:19:41,657 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:41] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,606 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "GET / HTTP/1.1" 200 -
+2023-12-10 11:19:44,637 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,639 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,639 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,640 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,642 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,643 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,645 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,646 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,648 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,648 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,650 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,654 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,656 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,659 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,660 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:44,662 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:44] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:19:46,067 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "GET /about.html HTTP/1.1" 200 -
+2023-12-10 11:19:46,096 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,097 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,097 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,100 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,101 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,104 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,104 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,106 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,107 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,109 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,111 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,111 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,111 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,113 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:46,159 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:46] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,029 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "GET /team.html HTTP/1.1" 200 -
+2023-12-10 11:19:50,060 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,062 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,063 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,065 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,065 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,067 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,069 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,070 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/img/team/Matthew_Holden.jpg HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,070 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/img/team/Rafael.jpg HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,072 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/img/team/Keon_Nartey.jpg HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,074 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,074 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,077 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,079 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,080 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,082 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,083 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:50,083 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:50] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,530 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "GET / HTTP/1.1" 200 -
+2023-12-10 11:19:55,560 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,563 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,563 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,563 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,567 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,568 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,569 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,570 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,571 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,573 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,574 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,575 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,577 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,577 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:19:55,584 - INFO - 127.0.0.1 - - [10/Dec/2023 11:19:55] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:22:29,604 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "GET /team.html HTTP/1.1" 200 -
+2023-12-10 11:22:29,632 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,636 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,636 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,636 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,638 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,642 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,643 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,645 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,647 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/img/team/Rafael.jpg HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,649 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,650 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/img/team/Keon_Nartey.jpg HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,650 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/img/team/Matthew_Holden.jpg HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,653 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,656 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,657 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,661 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,662 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,675 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:22:29,682 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:29] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,680 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "GET / HTTP/1.1" 200 -
+2023-12-10 11:22:32,710 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,712 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,713 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,715 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,716 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,717 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,719 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,721 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,722 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,722 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,726 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,726 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,727 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,727 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:22:32,734 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:22:32,735 - INFO - 127.0.0.1 - - [10/Dec/2023 11:22:32] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,900 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "GET /about.html HTTP/1.1" 200 -
+2023-12-10 11:23:17,929 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,933 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,934 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,935 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,935 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,936 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,938 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,940 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,944 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,946 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,947 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,948 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,950 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:23:17,952 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:17] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:23:18,005 - INFO - 127.0.0.1 - - [10/Dec/2023 11:23:18] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:33:54,588 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/app.py', reloading
+2023-12-10 11:33:54,661 - INFO -  * Restarting with stat
+2023-12-10 11:33:55,284 - WARNING -  * Debugger is active!
+2023-12-10 11:33:55,292 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:34:38,089 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/app.py', reloading
+2023-12-10 11:34:38,157 - INFO -  * Restarting with stat
+2023-12-10 11:34:38,812 - WARNING -  * Debugger is active!
+2023-12-10 11:34:38,819 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:35:33,766 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 11:35:33,766 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 11:35:33,767 - INFO -  * Restarting with stat
+2023-12-10 11:35:34,275 - WARNING -  * Debugger is active!
+2023-12-10 11:35:34,283 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 11:35:42,189 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "GET / HTTP/1.1" 200 -
+2023-12-10 11:35:42,208 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,212 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,212 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,217 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,223 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,226 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,226 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,228 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,231 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,232 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,236 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,238 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,238 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,242 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,263 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:35:42,264 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:35:42,320 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:42] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,867 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "GET /plot.html HTTP/1.1" 200 -
+2023-12-10 11:35:44,897 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,901 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,902 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,904 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,904 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,907 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,909 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,910 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,911 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,912 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,915 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,917 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,918 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,918 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:44,962 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:44] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,844 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "GET /team.html HTTP/1.1" 200 -
+2023-12-10 11:35:46,870 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,872 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,873 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,874 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,875 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,877 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,878 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,879 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/img/team/Rafael.jpg HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,881 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/img/team/Keon_Nartey.jpg HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,882 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/img/team/Matthew_Holden.jpg HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,885 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,886 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,888 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,889 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,890 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,893 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,893 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:35:46,893 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:46] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,261 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "GET /plot.html HTTP/1.1" 200 -
+2023-12-10 11:35:48,290 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,292 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,294 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,297 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,298 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,300 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,300 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,301 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,302 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,304 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,305 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,306 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,308 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,308 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:48,352 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:48] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,007 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "GET / HTTP/1.1" 200 -
+2023-12-10 11:35:50,031 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,032 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,032 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,032 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,036 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,037 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,038 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,038 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,040 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,042 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,043 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,044 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,046 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 11:35:50,047 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 11:35:50,048 - INFO - 127.0.0.1 - - [10/Dec/2023 11:35:50] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 11:42:35,661 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/return_div.py', reloading
+2023-12-10 11:42:35,738 - INFO -  * Restarting with stat
+2023-12-10 11:42:36,420 - WARNING -  * Debugger is active!
+2023-12-10 11:42:36,427 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:15:09,422 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 12:15:09,422 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 12:15:09,423 - INFO -  * Restarting with stat
+2023-12-10 12:15:09,931 - WARNING -  * Debugger is active!
+2023-12-10 12:15:09,940 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:15:16,608 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "GET / HTTP/1.1" 200 -
+2023-12-10 12:15:16,624 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,624 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,630 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,632 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,634 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,639 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,639 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,639 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,643 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,645 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,657 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,657 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,658 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,662 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,681 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 12:15:16,683 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 12:15:16,741 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:16] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,412 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "GET /plot.html HTTP/1.1" 200 -
+2023-12-10 12:15:19,443 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,445 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,446 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,448 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,450 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,452 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,454 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,456 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,457 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,459 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,459 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,460 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,462 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,462 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:19,510 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:19] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 12:15:36,623 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/app.py', reloading
+2023-12-10 12:15:36,719 - INFO -  * Restarting with stat
+2023-12-10 12:15:37,638 - WARNING -  * Debugger is active!
+2023-12-10 12:15:37,652 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:15:41,202 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 12:15:41,203 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 12:15:41,203 - INFO -  * Restarting with stat
+2023-12-10 12:15:41,791 - WARNING -  * Debugger is active!
+2023-12-10 12:15:41,801 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:15:46,631 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "GET / HTTP/1.1" 200 -
+2023-12-10 12:15:46,655 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,657 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,666 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,668 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,671 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,679 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,679 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,680 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,684 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,688 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,690 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,694 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,699 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,701 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,721 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 12:15:46,723 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 12:15:46,791 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:46] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 12:15:50,018 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:50] "[33mGET /about.html HTTP/1.1[0m" 404 -
+2023-12-10 12:15:58,241 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:58] "[35m[1mGET /plot.html HTTP/1.1[0m" 500 -
+2023-12-10 12:15:58,267 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:58] "GET /plot.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-12-10 12:15:58,271 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:58] "GET /plot.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-12-10 12:15:58,278 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:58] "GET /plot.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-12-10 12:15:58,293 - INFO - 127.0.0.1 - - [10/Dec/2023 12:15:58] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 12:16:15,692 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/app.py', reloading
+2023-12-10 12:16:15,764 - INFO -  * Restarting with stat
+2023-12-10 12:16:16,423 - WARNING -  * Debugger is active!
+2023-12-10 12:16:16,429 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:16:59,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 12:16:59,622 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 12:16:59,622 - INFO -  * Restarting with stat
+2023-12-10 12:17:00,141 - WARNING -  * Debugger is active!
+2023-12-10 12:17:00,149 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:17:04,373 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "GET / HTTP/1.1" 200 -
+2023-12-10 12:17:04,389 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,389 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,396 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,397 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,398 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,403 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/remixicon/remixicon.css HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,404 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/css/main.css HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,404 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,409 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,411 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,414 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,415 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,417 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,420 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/js/main.js HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,440 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[33mGET /assets/img/why-us-bg.jpg HTTP/1.1[0m" 404 -
+2023-12-10 12:17:04,441 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/img/HUDDLE.jpeg HTTP/1.1[0m" 304 -
+2023-12-10 12:17:04,498 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:04] "[36mGET /static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?2820a3852bdb9a5832199cc61cec4e65 HTTP/1.1[0m" 304 -
+2023-12-10 12:17:07,289 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:07] "[35m[1mGET /plot.html HTTP/1.1[0m" 500 -
+2023-12-10 12:17:07,317 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:07] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-12-10 12:17:07,321 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:07] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-12-10 12:17:07,328 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:07] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 12:17:43,199 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/app.py', reloading
+2023-12-10 12:17:43,284 - INFO -  * Restarting with stat
+2023-12-10 12:17:43,910 - WARNING -  * Debugger is active!
+2023-12-10 12:17:43,919 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:17:46,308 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 12:17:46,308 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 12:17:46,308 - INFO -  * Restarting with stat
+2023-12-10 12:17:46,869 - WARNING -  * Debugger is active!
+2023-12-10 12:17:46,876 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:17:50,949 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:50] "[35m[1mGET /plot.html HTTP/1.1[0m" 500 -
+2023-12-10 12:17:50,974 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:50] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-12-10 12:17:50,976 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:50] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-12-10 12:17:50,993 - INFO - 127.0.0.1 - - [10/Dec/2023 12:17:50] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 12:19:13,172 - INFO -  * Detected change in '/Users/rafaeldavila/Documents/Duke/Sem1/706_Data_Engineering/final/nfl_plotting/return_div.py', reloading
+2023-12-10 12:19:13,246 - INFO -  * Restarting with stat
+2023-12-10 12:19:13,853 - WARNING -  * Debugger is active!
+2023-12-10 12:19:13,861 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:19:18,991 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 12:19:18,991 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 12:19:18,992 - INFO -  * Restarting with stat
+2023-12-10 12:19:19,513 - WARNING -  * Debugger is active!
+2023-12-10 12:19:19,518 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:19:23,896 - INFO - 127.0.0.1 - - [10/Dec/2023 12:19:23] "[35m[1mGET /plot.html HTTP/1.1[0m" 500 -
+2023-12-10 12:19:23,918 - INFO - 127.0.0.1 - - [10/Dec/2023 12:19:23] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-12-10 12:19:23,920 - INFO - 127.0.0.1 - - [10/Dec/2023 12:19:23] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-12-10 12:19:23,930 - INFO - 127.0.0.1 - - [10/Dec/2023 12:19:23] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 12:19:23,940 - INFO - 127.0.0.1 - - [10/Dec/2023 12:19:23] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 12:23:06,688 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.221:3000
+2023-12-10 12:23:06,688 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-10 12:23:06,689 - INFO -  * Restarting with stat
+2023-12-10 12:23:07,218 - WARNING -  * Debugger is active!
+2023-12-10 12:23:07,226 - INFO -  * Debugger PIN: 202-030-905
+2023-12-10 12:23:09,659 - INFO - 127.0.0.1 - - [10/Dec/2023 12:23:09] "[35m[1mGET /plot.html HTTP/1.1[0m" 500 -
+2023-12-10 12:23:09,682 - INFO - 127.0.0.1 - - [10/Dec/2023 12:23:09] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-12-10 12:23:09,685 - INFO - 127.0.0.1 - - [10/Dec/2023 12:23:09] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-12-10 12:23:09,692 - INFO - 127.0.0.1 - - [10/Dec/2023 12:23:09] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-12-10 12:23:09,708 - INFO - 127.0.0.1 - - [10/Dec/2023 12:23:09] "[36mGET /plot.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
