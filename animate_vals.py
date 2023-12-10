@@ -328,7 +328,7 @@ def g(plays_df, games_df, player_info, game_df, gameId, playId):
     frames = []
     ball_thrown = False
 
-    print(len(play_info["A'Shawn Robinson"]))
+    # print(len(play_info["A'Shawn Robinson"]))
 
     for c in range(playlengthframes):
         frame = {"data": [], "name": c}
