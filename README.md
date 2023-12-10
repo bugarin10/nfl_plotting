@@ -1,4 +1,5 @@
-# NFL Plotting 🏈
+# NFL Plotting 🏈 [![Install](https://github.com/bugarin10/nfl_plotting/actions/workflows/install.yml/badge.svg)](https://github.com/bugarin10/nfl_plotting/actions/workflows/install.yml) [![Format](https://github.com/bugarin10/nfl_plotting/actions/workflows/format.yml/badge.svg)](https://github.com/bugarin10/nfl_plotting/actions/workflows/format.yml)
+
 
 #### ETL Pipeline 🔌🚰
 
