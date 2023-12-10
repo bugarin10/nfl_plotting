@@ -35,3 +35,23 @@ def sqlConnect():
 
 def sqlClose(conn):
     conn.close()
+
+def sqlQuery(c, tab, gameId=None, playId=None):
+
+    if playId and gameId:
+        query = f'SELECT * FROM {tab} WHERE gameId = {gameId} AND playId = {playId};'
+        print(query)
+    elif gameId:
+        query = f'SELECT * FROM {tab} WHERE gameId = {gameId};'
+        print(query)
+    else:
+        query = f'SELECT * FROM {tab}'
+        print(query)
+    
+    c.execute(query)
+    results = c.fetchall()
+    return results
+
+if __name__ == "__main__":
+    cursor, status = sqlConnect()
+    print(status)

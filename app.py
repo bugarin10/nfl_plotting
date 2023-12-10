@@ -18,7 +18,7 @@ def index():
 
 @app.route("/plot.html", methods=["GET", "POST"])
 def plot():
-    return render_template("plot.html", plot=return_div(56))
+    return render_template("plot.html", plot=return_div(1))
 
 
 @app.route("/team.html")
