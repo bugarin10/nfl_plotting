@@ -1,5 +1,15 @@
 # NFL Plotting 🏈
 
+#### Background
+
+Every year the NFL sponsors a datascience related Kaggle competition. This year the following prompt was proposed for the [NFL Big Data Bowl 2024](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024):
+
+`American football is a complex sport, but once an offensive player receives a handoff or catches a pass, all 11 defenders focus on one task -- tackle that ball carrier as soon as possible. Conversely, the ball carrier's role is to advance the ball down the field to gain as much yardage as possible until he is tackled, scores, or runs out of bounds. This year's competition offers up a general goal — create metrics that assign value to elements of tackling.`
+
+As a part of this competition, the NFL provided AWS Next Gen Player Tracking Stats for specific games in the 2022 NFL season. For our final project, we chose to explore the data by creating a web application that animates the football plays provided by the NFL. We use the player tracking data to plot all 22 players (blue for offense, red for defense) along with the position of the football (brown), for the duration of 1 play. Our animation will display any play from the Buffalo vs Rams 2022 opening game. User input on the web application determines which play to display.
+
+*Note: Because the competition is focused on tackling, the animation begins mid-play - a few frames before the football reaches the primary ball carrier. This means that the animations will not start with all 22 players on the line of scrimage.* 
+
 #### ETL Pipeline 🔌🚰
 
 The ETL (Extract, Transform, Load) pipeline starts by gathering data from our source folder which houses the `games.csv`, `plays.csv`, `tackles.csv`, `players.csv`, and `la_vs_buff.csv`. This raw data is then stored in a Database File System.The transformative phase follows, converting the raw data into Delta Lake tables. Delta Lake provides a structured and versioned storage solution, adding reliability and transactional capabilities to the data processing workflow. Each Delta Lake table corresponds to a specific dataset (games, plays, tackles, players, and la_vs_buff), making it convenient to interact with the data using SQL queries. This relational structure enhances the overall performance of queries and enables the establishment of relationships between different datasets, providing a more comprehensive view of the data.
