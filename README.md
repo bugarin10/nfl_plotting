@@ -27,6 +27,8 @@ We seamlessly incorporated cutting-edge AI Pair Programming tools, including Git
 
 #### Load Test 
 
+Load testing is a form of performance evaluation that gauges a system's capacity to manage a defined load or volume of simultaneous users or transactions. The main objective of load testing is to pinpoint performance bottlenecks, observe system behavior across diverse conditions, and ascertain the application's ability to efficiently handle the anticipated workload.In our case, we subjected our application to a load test with 2000 users attempting to utilize our microservice. The subsequent results illustrate the project's success in withstanding a substantial influx of traffic. The image below provides a detailed representation of the behaviors exhibited by each user, as encapsulated in the locustfile.py.
+
 ![total_requests_per_second_1702252168](https://github.com/bugarin10/nfl_plotting/assets/125210401/d2a3f17f-2fbc-452d-beab-590d15827397)
 
 #### Flask 🧪
@@ -42,5 +44,9 @@ A Dockerfile is a script used to build a Docker image. The image is a platform f
 The goal of CI/CD is to enable rapid integration and testing of changes, and to enable continuous delivery of new versions of software by automating the process of building, testing, and deploying code changes.
 This repository contains a CI/CD pipeline that is triggered by a push to the main branch. The pipeline is defined in .github/workflows. The files in this folder, each of which defines a different job in the pipeline responsible for `installing packages and dependencies`, `linting`, `formating`, and `testing`. 
 
+#### Architecture Design
 
+#### Limitations
+
+#### Future Work
 
