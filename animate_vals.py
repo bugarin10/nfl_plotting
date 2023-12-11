@@ -53,18 +53,18 @@ def makePlayerShapes(home, away, direction):
             tnow = thing[i]
             try:
                 tnext = thing[i + 1]
-            except:
+            except IndexError:
                 tnext = None
 
             if direction == "right":
-                if tnext != None:
+                if tnext is not None:
                     recs.append(
                         (tnow[0] - 2, 0, 120, (tnow[1] + tnext[1]) / 2, tnow[2])
                     )
                 else:
                     recs.append((tnow[0] - 2, 0, 120, 54, tnow[2]))
             else:
-                if tnext != None:
+                if tnext is not None:
                     recs.append((tnow[0] + 2, 0, 0, (tnow[1] + tnext[1]) / 2, tnow[2]))
                 else:
                     recs.append((tnow[0] - 2, 0, 0, 54, tnow[2]))
@@ -119,7 +119,7 @@ def makePlayerShapes(home, away, direction):
 
 
 def g(plays_df, games_df, player_info, game_df, gameId, playId):
-    midpoint_trace = go.Scatter(x=[60], y=[53.3 / 2])
+    # midpoint_trace = go.Scatter(x=[60], y=[53.3 / 2])
     outer_shape = {
         "type": "rect",
         "layer": "below",
@@ -221,7 +221,7 @@ def g(plays_df, games_df, player_info, game_df, gameId, playId):
     direction = game_play_df["playDirection"].iloc[0]  #'GOING RIGHT'
     print(game_play_df["event"].unique())
 
-    sett = set()
+    # sett = set()
 
     play_info = {}
     lastname = ""
@@ -289,7 +289,7 @@ def g(plays_df, games_df, player_info, game_df, gameId, playId):
             playerInfo = player_info[
                 player_info["nflId"] == game_play_df.iloc[x]["nflId"]
             ].iloc[0]
-        except:
+        except IndexError:
             playerInfo = player_info[
                 player_info["nflId"] == game_play_df.iloc[0]["nflId"]
             ].iloc[0]
@@ -339,10 +339,10 @@ def g(plays_df, games_df, player_info, game_df, gameId, playId):
         player_shapes = []
 
         for p in sorted(play_info):
-            if checkevent == False:
+            if checkevent is False:
                 try:
                     b = math.isnan(play_info[f"{p}"][c][4])
-                except:
+                except TypeError:
                     b = False
                 if b:
                     frameInfo["x"].append(85)
@@ -360,7 +360,7 @@ def g(plays_df, games_df, player_info, game_df, gameId, playId):
                     frameInfo["text"].append(play_info[p][c][4])
                     frameInfo["mode"] = "text"
                     frameInfo["textfont"] = dict(size=10, color="#ffffff")
-                checkEvent = True
+                checkevent = True
             if play_info[p][c][2] == home_team:
                 home["x"].append(play_info[p][c][0])
                 home["y"].append(play_info[p][c][1])
@@ -379,7 +379,7 @@ def g(plays_df, games_df, player_info, game_df, gameId, playId):
                 away["textfont"] = dict(size=10, color="#ffffff")
 
             else:
-                if los == None:
+                if los is None:
                     los = (play_info[p][c][0], play_info[p][c][1])
                 ball["x"].append(play_info[p][c][0])
                 ball["y"].append(play_info[p][c][1])
