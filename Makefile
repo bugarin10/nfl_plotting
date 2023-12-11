@@ -17,6 +17,9 @@ container-lint:
 
 refactor: format lint
 
+test:
+	python -m pytest -vv --cov=main --cov=mylib
+
 deploy:
 	#deploy goes here
 		
