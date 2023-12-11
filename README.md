@@ -1,6 +1,7 @@
 # NFL Plotting 🏈 [![Install](https://github.com/bugarin10/nfl_plotting/actions/workflows/install.yml/badge.svg)](https://github.com/bugarin10/nfl_plotting/actions/workflows/install.yml) [![Format](https://github.com/bugarin10/nfl_plotting/actions/workflows/format.yml/badge.svg)](https://github.com/bugarin10/nfl_plotting/actions/workflows/format.yml) [![Lint](https://github.com/bugarin10/nfl_plotting/actions/workflows/lint.yml/badge.svg)](https://github.com/bugarin10/nfl_plotting/actions/workflows/lint.yml) [![Test](https://github.com/bugarin10/nfl_plotting/actions/workflows/test.yml/badge.svg)](https://github.com/bugarin10/nfl_plotting/actions/workflows/test.yml)
 
 [NFL Plotting Website](https://nflplot.azurewebsites.net/)
+Video [here](https://www.youtube.com/watch?v=wR4FVyW0uxY)
 
 
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
