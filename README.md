@@ -49,6 +49,11 @@ This repository contains a CI/CD pipeline that is triggered by a push to the mai
 
 #### Architecture Design
 
+Below is a diagram of the web application development/deployment architecture. Azure DockerHub and Azure Web Apps were used to deploy the flask application. A SQL database hosted on Azure Databricks was used to store the data.
+
+![image](https://github.com/bugarin10/nfl_plotting/assets/114833075/a12043cd-a6ff-41ab-8d7b-3366e42db5f6)
+
+
 #### Latency Testing
 
 The Azure Web App provides key metrics that serve as tangible indicators, affirming the successful push and deployment of the container to a public endpoint. These metrics encompass essential performance and utilization data, offering insights into the containerized application's behavior and responsiveness. Key indicators include response times, request throughput, error rates, and resource utilization metrics, collectively reflecting the health and efficiency of the deployed container. Additionally, monitoring aspects such as server response codes, latency, and network performance contribute to a comprehensive assessment of the container's integration with the Azure Web App infrastructure. These metrics not only validate the successful deployment but also serve as valuable benchmarks for ongoing performance monitoring and optimization efforts, ensuring a robust and reliable user experience on the public endpoint.
