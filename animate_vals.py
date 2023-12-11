@@ -119,7 +119,7 @@ def makePlayerShapes(home, away, direction):
 
 
 def g(plays_df, games_df, player_info, game_df, gameId, playId):
-    #midpoint_trace = go.Scatter(x=[60], y=[53.3 / 2])
+    # midpoint_trace = go.Scatter(x=[60], y=[53.3 / 2])
     outer_shape = {
         "type": "rect",
         "layer": "below",
@@ -221,7 +221,7 @@ def g(plays_df, games_df, player_info, game_df, gameId, playId):
     direction = game_play_df["playDirection"].iloc[0]  #'GOING RIGHT'
     print(game_play_df["event"].unique())
 
-    #sett = set()
+    # sett = set()
 
     play_info = {}
     lastname = ""
