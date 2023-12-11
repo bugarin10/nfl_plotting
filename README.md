@@ -21,9 +21,13 @@ The ETL (Extract, Transform, Load) pipeline starts by gathering data from our so
 
 A user initiates a play by executing an SQL query, connecting to Azure Databricks where the relevant tables are stored. This process retrieves executable data, which is then converted into a Pandas dataframe. Subsequently, the user can visualize a plot of the specific game play through the designated website. The system leverages IaC principles to manage and provision its infrastructure. Infrastructure as Code involves expressing infrastructure configurations in a script or declarative language, enabling the automated deployment and management of resources. In this context, the deployment and configuration of Azure Databricks, along with any associated infrastructure, are codified. This approach enhances reproducibility, scalability, and version control of the entire system's architecture.
 
-#### AI Pair Programming
+#### AI Pair Programming 🤖
 
 We seamlessly incorporated cutting-edge AI Pair Programming tools, including GitHub Copilot, AWS CodeWhisper, and OpenAI's ChatGPT, to elevate our coding efficiency and precision. Leveraging these advanced AI technologies streamlined the code-writing process for each team member throughout the development stages—from constructing Databricks and Delta Lake tables to generating plots and building the Flask app and HTML. The integration of these tools not only facilitated a smoother workflow but also significantly enhanced the overall coding experience, marking a substantial leap forward in our development practices.
+
+#### Load Test 
+
+![total_requests_per_second_1702252168](https://github.com/bugarin10/nfl_plotting/assets/125210401/d2a3f17f-2fbc-452d-beab-590d15827397)
 
 #### Flask 🧪
 
