@@ -46,7 +46,17 @@ This repository contains a CI/CD pipeline that is triggered by a push to the mai
 
 #### Architecture Design
 
-#### Limitations
 
-#### Future Work
+#### Limitations 
+
+- The application encounters a slight delay in execution as it establishes a connection with Databricks and initiates a pipeline, especially noticeable during the first plot generation for a particular play. This initial lag is inherent to the essential processes involved in connecting to external services and executing pipelines.
+
+- The animation initiates midway through a play, limiting the visibility of the entire play sequence due to insufficient collected data. The start point of the animation is constrained by the available dataset, resulting in an incomplete depiction of the play's progression.
+
+#### Future work
+
+- To ameliorate this delay and enhance user experience, strategic measures such as implementing a caching mechanism for previously computed results, introducing asynchronous processing, and optimizing data retrieval processes can significantly mitigate the impact of the initial latency. Furthermore, incorporating lazy loading for plot generation, providing progress indicators to users, and executing background preprocessing during periods of low activity contribute to a smoother and more responsive user interface.
+  
+- Enhancing data collection mechanisms or extending the dataset may offer a solution to this limitation, enabling a more comprehensive and informative visualization of the entire play, providing users with a more detailed and insightful perspective.
+
 
