@@ -1,5 +1,6 @@
 # NFL Plotting 🏈 [![Install](https://github.com/bugarin10/nfl_plotting/actions/workflows/install.yml/badge.svg)](https://github.com/bugarin10/nfl_plotting/actions/workflows/install.yml) [![Format](https://github.com/bugarin10/nfl_plotting/actions/workflows/format.yml/badge.svg)](https://github.com/bugarin10/nfl_plotting/actions/workflows/format.yml) [![Lint](https://github.com/bugarin10/nfl_plotting/actions/workflows/lint.yml/badge.svg)](https://github.com/bugarin10/nfl_plotting/actions/workflows/lint.yml) [![Test](https://github.com/bugarin10/nfl_plotting/actions/workflows/test.yml/badge.svg)](https://github.com/bugarin10/nfl_plotting/actions/workflows/test.yml)
 
+[NFL Plotting Website](https://nflplot.azurewebsites.net/)
 
 #### Background
 
@@ -10,6 +11,8 @@ Every year the NFL sponsors a datascience related Kaggle competition. This year 
 As a part of this competition, the NFL provided AWS Next Gen Player Tracking Stats for specific games in the 2022 NFL season. For our final project, we chose to explore the data by creating a web application that animates the football plays provided by the NFL. We use the player tracking data to plot all 22 players (blue for offense, red for defense) along with the position of the football (brown), for the duration of 1 play. Our animation will display any play from the Buffalo vs Rams 2022 opening game. User input on the web application determines which play to display.
 
 *Note: Because the competition is focused on tackling, the animation begins mid-play - a few frames before the football reaches the primary ball carrier. This means that the animations will not start with all 22 players on the line of scrimage.* 
+
+![bfaa0876-a750-49c5-9d8c-966a7fa95eff](https://github.com/bugarin10/nfl_plotting/assets/125210401/9c02ede9-8b0c-4ab2-b3ec-a6451ddff528)
 
 #### ETL Pipeline 🔌🚰
 
@@ -45,6 +48,11 @@ The goal of CI/CD is to enable rapid integration and testing of changes, and to 
 This repository contains a CI/CD pipeline that is triggered by a push to the main branch. The pipeline is defined in .github/workflows. The files in this folder, each of which defines a different job in the pipeline responsible for `installing packages and dependencies`, `linting`, `formating`, and `testing`. 
 
 #### Architecture Design
+
+#### Latency Testing
+
+![9c434b7b-8ab5-4956-b1ad-8bfcf1b68eed](https://github.com/bugarin10/nfl_plotting/assets/125210401/f9ea4fff-5b76-44cb-a6d1-72e2941ac57a)
+![9cf79733-7c24-43f8-b8f0-cb43307e1fcc](https://github.com/bugarin10/nfl_plotting/assets/125210401/7161e8b6-9dd7-4e7b-89e5-1048f9ab53a9)
 
 
 #### Limitations 
